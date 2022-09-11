@@ -1,4 +1,4 @@
-function snowFall(snow) {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>function snowFall(snow) {
     /* 可配置属性 */
     snow = snow || {};
     this.maxFlake = snow.maxFlake || 200;   /* 最多片数 */
